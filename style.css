@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+flex-direction: column;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col{
+    margin: 20px;
+}
+img{
+    border-radius: 50%;
+}
+ul li{
+    list-style-type: square;
+}
